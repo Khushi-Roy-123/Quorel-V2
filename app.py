@@ -36,8 +36,8 @@ app.config.update(
     MAIL_SERVER="smtp.gmail.com",
     MAIL_PORT=587,
     MAIL_USE_TLS=True,
-    MAIL_SERVER="verify.quorel.noreply@gmail.com",
-    MAIL_PORT="zmin fdyy gvka pqha",
+    MAIL_USERNAME="verify.quorel.noreply@gmail.com",
+    MAIL_PASSWORD="zmin fdyy gvka pqha",
 )
 mail = Mail(app)
 
