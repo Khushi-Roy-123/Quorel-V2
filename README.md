@@ -38,11 +38,3 @@ Quorel addresses this issue by building a real-time credit intelligence platform
 Quorel provides a transformative solution to the credit scoring inefficiencies by merging rapid, AI-powered credit risk evaluations with human-centered explainability and transparency. Its scalable system architecture and intuitive dashboards empower analysts and regulatory bodies alike to make better-informed, trustable credit decisions in dynamic financial environments.
 
 ---
-
-This document serves as a complete reference for why Quorel exists, how it works, what features it provides, and how to get it running locally or in a container for development or demonstration purposes.
-
-   
-
-
-
-1. Clone the Quorel repository:
