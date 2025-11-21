@@ -35,10 +35,11 @@ Quorel addresses this issue by building a real-time credit intelligence platform
 
 
 3. Run the application locally:
-   python main.py
+   python app.py
 
 ## Summary
 Quorel provides a transformative solution to the credit scoring inefficiencies by merging rapid, AI-powered credit risk evaluations with human-centered explainability and transparency. Its scalable system architecture and intuitive dashboards empower analysts and regulatory bodies alike to make better-informed, trustable credit decisions in dynamic financial environments.
 
 ---
+
 
