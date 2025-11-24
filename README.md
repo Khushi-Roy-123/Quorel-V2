@@ -229,7 +229,5 @@ You can write unit tests (e.g. with `pytest`) around:
 
 ---
 
-## License
 
-_Add your license information here (e.g. MIT, Apache 2.0, or proprietary)._ 
 
